@@ -1,10 +1,11 @@
 # plan
 
-create mainpage
-create workframe page
-create activity page
-create developer portfolio page
-create artist portfolio page
+mainpage
+workframe page
+activity page
+developer portfolio page
+artist portfolio page
+roadmap page
 
 # Getting Started with Create React App
 
