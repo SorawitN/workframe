@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-function Portfolio_developer() {
+function Setting() {
   //State
   
 
@@ -10,9 +10,9 @@ function Portfolio_developer() {
 
   return (
     <div>
-      <h1>This is developer portfolio page</h1>
+      <h1>This is setting page</h1>
     </div>
   );
 }
 
-export default Portfolio_developer;
+export default Setting;
