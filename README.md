@@ -1,3 +1,12 @@
+# plan
+
+mainpage
+workframe page
+activity page
+developer portfolio page
+artist portfolio page
+roadmap page
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
